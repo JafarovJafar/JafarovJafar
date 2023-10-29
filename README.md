@@ -3,6 +3,8 @@
   <h3>I'm Jafar, professional Unity developer</h3>
 </div>
 
+<div align="center"><img src="./keyboard.gif"/></div>
+
 ---
 
 ### ℹ️ About me
@@ -29,6 +31,10 @@
 ### 📈 My Stats
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafarovjafar&hide=contribs&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarovjafar&layout=compact)
 | ------------- | ------------- |
+
+### 📧 Contact me
+- <div>Telegram: <a href="https://t.me/jafarovja">@jafarovja</a></div>
+- <div>E-mail: <a href="mailto:jafarovja@yandex.ru">jafarovja@yandex.ru</a></div>
 
 <!---
 JafarovJafar/JafarovJafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
