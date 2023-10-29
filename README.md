@@ -1,9 +1,9 @@
-<div id="header" align="center>
+<div id="header" align="center">
   <h1>Hi! 👨🏻‍💻</h1>
   <h3>I'm Jafar, professional Unity developer</h3>
 </div>
 
---- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+---
 
 ### ℹ️ About me
 - 🌲 I'm from Siberia, Russia
