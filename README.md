@@ -29,8 +29,9 @@
 
 
 ### 📈 My Stats
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafarovjafar&hide=contribs&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarovjafar&layout=compact)
-| ------------- | ------------- |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafarovjafar&hide=contribs&show_icons=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jafarovja?ext=heatmap)
 
 ### 📧 Contact me
 - <div>Telegram: <a href="https://t.me/jafarovja">@jafarovja</a></div>
