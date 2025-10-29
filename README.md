@@ -10,7 +10,7 @@
 ### ℹ️ About me
 - 🌲 I'm from Siberia, Russia
 - 👀 I like game development
-- 📑 Total work experience is 3 years. Experience of game development: 2 year.
+- 📑 Total work experience is 5 years. Experience of game development: 4 year.
 - 🌍 I speak English (B1), Russian.
 
 ### 🔧 Languages and tools
@@ -30,8 +30,6 @@
 
 ### 📈 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafarovjafar&hide=contribs&show_icons=true)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jafarovja?ext=heatmap)
 
 ### 📧 Contact me
 - <div>Telegram: <a href="https://t.me/jafarovja">@jafarovja</a></div>
